@@ -1,0 +1,6 @@
+
+
+
+python -m venv tutorialenv
+
+source tutorialenv/bin/activate
